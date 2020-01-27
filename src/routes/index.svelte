@@ -40,7 +40,7 @@ import DB from "../components/DB.svelte"
 </svelte:head>
 
 
-
+<h1>Welcome to Uno Zero Code</h1>
 
 <DB></DB>
 <p></p>

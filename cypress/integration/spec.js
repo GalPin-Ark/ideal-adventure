@@ -4,7 +4,7 @@ describe('Sapper template app', () => {
 	});
 
 	it('has the correct <h1>', () => {
-		cy.contains('h1', 'Great success!')
+		cy.contains('h1', 'Welcome to Uno Zero Code')
 	});
 
 	it('navigates to /about', () => {
