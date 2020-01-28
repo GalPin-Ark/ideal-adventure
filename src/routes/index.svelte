@@ -1,5 +1,6 @@
 <script>
 import DB from "../components/DB.svelte"
+
 </script>
 <style>
 	h1, figure, p {
@@ -43,6 +44,6 @@ import DB from "../components/DB.svelte"
 <h1>Welcome to Uno Zero Code</h1>
 
 <DB></DB>
-<p></p>
-Authentication
+
+
 
