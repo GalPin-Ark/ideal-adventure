@@ -1,5 +1,5 @@
 <svelte:head>
-	<title>About2</title>
+	<title>About3</title>
 </svelte:head>
 
 <h1>About this Sapper site</h1>
